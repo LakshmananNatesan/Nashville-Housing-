@@ -28,6 +28,4 @@ Achieved 87% predictive accuracy on housing price estimation
 Built Tableau dashboards highlighting pricing trends across Nashville neighborhoods
 Insights tailored for urban policy makers and real estate investors
 
-
-📊 Results
-MetricResultData Reliability Improvement+35%Preprocessing Time Reduction40%Model Predictive Accuracy87%Records Processed56,000+
+ 
